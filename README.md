@@ -1,5 +1,5 @@
 # IWI-HSG Agentic AI Lab
-# Funded and part of the "Competence Center Enterprise Software, AI und Transformation (im Kontext von digitaler Souveränität)"
 > The purpose of this lab is to consolidate the diverese research and development projects around agentic AI of our glorious research team. We want to be able to share our knowledge, standards, good practices in providing a consolidated view of our diverese research projects.
 > Our lab vision is to improve, guide and critically reflect on the digital society, which we live in. We want to ensure a human-centric world of tomorrow, improve the lives of people by appropriate value maximization of people, organization and other institutions. Value is defined as more than just financial value. It encompasses all kinds of value, including but not limited to human values and economic value.
 > Our lab does not adhere to any ideology. We are in the pursuit of knowledge and democratizing knowledge. We are a bunch of like-minded researchers with different epistemological PoVs. Therein lies both the fun of engaging in discourse as well as acknowledging its complexities.
+# Funded and part of the "Competence Center Enterprise Software, AI und Transformation"
