@@ -1,8 +1,12 @@
 # IWI-HSG Agentic AI Lab
+> The IWI-HSG Agentic AI Lab is a collaborative initiative at the Institute of Information Management (IWI-HSG), University of St. Gallen.
 > The purpose of this lab is to consolidate the diverese research and development projects around agentic AI of our glorious research team. We want to be able to share our knowledge, standards, good practices in providing a consolidated view of our diverese research projects.
 > Our lab vision is to improve, guide and critically reflect on the digital society, which we live in. 
 > Our lab does not adhere to any ideology. We are in the pursuit of knowledge and democratizing knowledge. We are a bunch of like-minded researchers with different epistemological PoVs. Therein lies both the fun of engaging in discourse as well as acknowledging its complexities.
-# Funded and part of the "Competence Center Enterprise Software, AI und Transformation"
+
+It brings together multiple research streams on agentic and generative AI within the institute.
+# Funding
+Some work is partially funded by the "Competence Center Enterprise Software, AI und Transformation"
 
 # IWI-HSG Agentic AI Lab
 
