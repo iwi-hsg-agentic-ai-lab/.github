@@ -1,13 +1,12 @@
 # IWI-HSG Agentic AI Lab
 The IWI-HSG Agentic AI Lab is a collaborative initiative at the Institute of Information Management (IWI-HSG), University of St. Gallen.
 
-The purpose of this lab is to consolidate the diverese research and development projects around agentic AI of our glorious research team. We want to be able to share our knowledge, standards, good practices in providing a consolidated view of our diverese research projects.
+The purpose of this lab is to consolidate the diverese research and development projects around agentic AI of our research team. We want to be able to share our knowledge, standards, good practices in providing a consolidated view of our diverese research projects.
 
-Our lab vision is to improve, guide and critically reflect on the digital society, which we live in. 
+Our lab vision is to improve, guide and critically reflect on the digital society, in which we envision us and our future generations would aspire to live in. 
 Our lab does not subscribe to any particular ideology. We are in the pursuit of knowledge and democratizing knowledge. We are a bunch of like-minded researchers with different epistemological PoVs. Therein lies both the fun of engaging in discourse as well as acknowledging its complexities. It brings together multiple research streams on agentic and generative AI within the institute and welcomes everyone to share and contribute to the ongoing work. 
 
-
- The IWI-HSG Agentic AI Lab unites diverse research and development projects in agentic AI and other related areas of research by our dedicated team. Our vision is to guide and critically reflect on the evolution of a digital society, ensuring it remains human-centric and enhances lives meaningfully.  The lab is embedded in the broader research activities of several professorships at IWI-HSG working on topics related to Data & AI design an application, digital transformation and life-long learning.
+The IWI-HSG Agentic AI Lab unites diverse research and development projects in agentic AI and other related areas of research by our dedicated team. The lab is embedded in the broader research activities of several professorships at IWI-HSG working on topics related to Data & AI design an application, digital transformation and life-long learning.
 
 ## Objectives
 - Pursue scientific knowledge and democratize its access.
