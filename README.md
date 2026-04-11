@@ -28,8 +28,15 @@ We want to ensure a human-centric world of tomorrow, improve the lives of people
 - [Example Project A]: Brief summary of the outcome.
 - [Example Publication B]: Citation or link to a related paper.
 
+## Ownership and Privacy
+- We believe in the free transfer of knowledge and open scientific exchange.
+- We recognize data protection as a fundamental right and take it seriously in all our research activities.
+- In our collaborations with industry partners, we strictly uphold confidentiality and ensure that no sensitive or proprietary information is ever disclosed.
+- We support open-source principles and collaborative development, while ensuring that code ownership and contributions are clearly attributed and respected.
+- We promote collaboration without centralizing control—contributors, including doctoral researchers, retain ownership of their code while contributing to a shared ecosystem.
+
 ## Funders and Partners
-This lab is part of the *"Competence Center Enterprise Software, AI und Transformation"* initiative.
+This lab is in part funded by the *"Competence Center Enterprise Software, AI und Transformation"* initiative.
 
 ## Get Involved
 We welcome contributions and collaborations from researchers, students, and industry partners. Reach out through:
