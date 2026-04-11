@@ -44,5 +44,5 @@ This lab is in part funded by the *"Competence Center Enterprise Software, AI un
 We welcome contributions and collaborations from researchers, students, and industry partners. Reach out through:
 
 - **Email:** [contact@example.com](mailto:contact@example.com)
-- **Website:** [agentic-ai-lab.org](https://agentic-ai-lab.org)
+- **Website:** [IWI-HSG](https://iwi.unisg.ch/en/the-institute/)
 
