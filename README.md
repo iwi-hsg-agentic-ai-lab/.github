@@ -4,13 +4,11 @@
 > Our lab vision is to improve, guide and critically reflect on the digital society, which we live in. 
 > Our lab does not adhere to any ideology. We are in the pursuit of knowledge and democratizing knowledge. We are a bunch of like-minded researchers with different epistemological PoVs. Therein lies both the fun of engaging in discourse as well as acknowledging its complexities.
 
-It brings together multiple research streams on agentic and generative AI within the institute.
-# Funding
-Some work is partially funded by the "Competence Center Enterprise Software, AI und Transformation"
+It brings together multiple research streams on agentic and generative AI within the institute and welcomes everyone to share and contribute to the ongoing work. 
 
 # IWI-HSG Agentic AI Lab
 
-> The IWI-HSG Agentic AI Lab unites diverse research and development projects in agentic AI and other related areas of research by our dedicated team. Our vision is to guide and critically reflect on the evolution of a digital society, ensuring it remains human-centric and enhances lives meaningfully. 
+> The IWI-HSG Agentic AI Lab unites diverse research and development projects in agentic AI and other related areas of research by our dedicated team. Our vision is to guide and critically reflect on the evolution of a digital society, ensuring it remains human-centric and enhances lives meaningfully.  The lab is embedded in the broader research activities of several professorships at IWI-HSG working on topics related to Data & AI design an application, digital transformation and life-long learning.
 
 ## Objectives
 - Pursue scientific knowledge and democratize its access.
