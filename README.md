@@ -11,6 +11,7 @@ The IWI-HSG Agentic AI Lab unites diverse research and development projects in a
 ## Objectives
 - Pursue scientific knowledge and democratize its access.
 - Promote a human-centric approach to AI.
+- Enable and empower organizations in their digital transformation 
 - Leverage diverse epistemological perspectives to foster innovation and inclusivity.
 We want to ensure a human-centric world of tomorrow, improve the lives of people by appropriate value maximization of people, organization and other institutions. Value is defined as more than just financial value. It encompasses all forms of value, including but not limited to human values and economic value.
 
